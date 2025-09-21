@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\obj\Debug\ejer 5 parametro.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\obj\Debug\ejer 5 parametro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\bin\Debug\ejer 5 parametro.exe.config
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\bin\Debug\ejer 5 parametro.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\bin\Debug\ejer 5 parametro.pdb
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\obj\Debug\ejer 5 parametro.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 parametro\ejer 5 parametro\obj\Debug\ejer 5 parametro.pdb
