@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,29 +7,29 @@ using System.Threading.Tasks;
 
 namespace ejer_5_parametro
 {
-    internal class Program
+    internal class Programe 
     {
-        // función comprueba si una palabra es un palíndromo.
-        // Lo hace al comparar la palabra con su versión invertida.
+        // función que comprueba si una palabra es un palíndromo.
+        // comparara la palabra con su versión invertida.
         public static bool EsPalindromo(string palabra)
         {
    
-            // Convierte todo a minúsculas y filtra los espacios en blanco.
-            string palabraLimpia = new string(palabra.ToLower().Where(c => !Char.IsWhiteSpace(c)).ToArray());
+            // Convertir todo a minúsculas y filtra los espacios en blanco.
+            string palabraNormal = new string(palabra.ToLower().Where(c => !Char.IsWhiteSpace(c)).ToArray());
 
             // logra inveritr la palabra normalizada.
-            char[] arrayCaracteres = palabraLimpia.ToCharArray();
+            char[] arrayCaracteres = palabraNormal.ToCharArray();
             Array.Reverse(arrayCaracteres);
-            string palabraInvertida = new string(arrayCaracteres);
+            string InvertirPalabra = new string(arrayCaracteres);
 
             // Comparara la palabra limpia con su versión invertida.
-            return palabraLimpia.Equals(palabraInvertida);
+            return palabraNormal.Equals(InvertirPalabra);
         }
 
         static void Main(string[] args)
         {
             string palabra;
-            Console.WriteLine("Escribe una palabra o frase para ver si es un palíndromo:");
+            Console.WriteLine("Escribir alguna palabra o frase para ver si es un palíndromo:");
             palabra = Console.ReadLine();
 
            
@@ -43,6 +43,3 @@ namespace ejer_5_parametro
             }
 
             Console.ReadLine();
-        }
-    }
-}
