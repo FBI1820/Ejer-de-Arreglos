@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
        
-
+        int x;
      
         
         Console.WriteLine("Ingrese un número entero: ");
@@ -27,3 +27,4 @@ class Program
 
    
 }
+
