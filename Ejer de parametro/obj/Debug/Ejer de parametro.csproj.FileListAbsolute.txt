@@ -1,7 +1,0 @@
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\bin\Debug\Ejer de parametro.exe.config
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\bin\Debug\Ejer de parametro.exe
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\bin\Debug\Ejer de parametro.pdb
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\obj\Debug\Ejer de parametro.csproj.AssemblyReference.cache
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\obj\Debug\Ejer de parametro.csproj.CoreCompileInputs.cache
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\obj\Debug\Ejer de parametro.exe
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\Ejer de parametro\Ejer de parametro\obj\Debug\Ejer de parametro.pdb
