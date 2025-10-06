@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\obj\Debug\ejer 5 arreglos.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\obj\Debug\ejer 5 arreglos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\bin\Debug\ejer 5 arreglos.exe.config
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\bin\Debug\ejer 5 arreglos.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\bin\Debug\ejer 5 arreglos.pdb
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\obj\Debug\ejer 5 arreglos.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 5 arreglos\ejer 5 arreglos\obj\Debug\ejer 5 arreglos.pdb
