@@ -10,6 +10,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            //Reto 1: Conversor de temperaturas
             double[] temperatura = new double[7];
             double[] farenheit = new double[7];
 
@@ -70,3 +71,4 @@ namespace ConsoleApp5
         }   
     }
 }
+
