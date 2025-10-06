@@ -1,0 +1,7 @@
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\semana6\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
